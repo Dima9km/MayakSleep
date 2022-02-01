@@ -1,4 +1,4 @@
-package com.dima.mayaksleep.ui.screens.radio
+package com.dima.mayaksleep.ui.screens.sleepradio
 
 import android.app.Application
 import android.os.CountDownTimer

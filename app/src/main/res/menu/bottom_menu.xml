@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/naviRadio"
+        android:id="@+id/naviAlarm"
+        android:icon="@drawable/ic_baseline_alarm_24"
+        android:title="Alarm" />
+
+    <item
+        android:id="@+id/naviSleepRadio"
         android:icon="@drawable/ic_baseline_radio_24"
-        android:title="Radio" />
-
-    <item
-        android:id="@+id/naviNews"
-        android:icon="@drawable/ic_baseline_rss_feed_24"
-        android:title="News" />
-
-    <item
-        android:id="@+id/naviPics"
-        android:icon="@drawable/ic_baseline_image_24"
-        android:title="Pics" />
+        android:title="SleepRadio" />
 
 </menu>

@@ -1,4 +1,4 @@
-package com.dima.mayaksleep.ui.screens.radio
+package com.dima.mayaksleep.ui.screens.sleepradio
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -12,7 +12,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.dima.mayaksleep.R
 
-class RadioFragment : Fragment() {
+class SleepRadioFragment : Fragment() {
 
     private lateinit var radioViewModel: RadioViewModel
 
